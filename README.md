@@ -7,7 +7,7 @@
 <details> 
   <summary>Extracting hierarchical objects</summary>
   
-  http://sqlfiddle.com/#!17/bd69d/68
+  http://sqlfiddle.com/#!17/bd69d/71
   
   Table name - Hierarchy
   
